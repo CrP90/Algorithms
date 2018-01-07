@@ -1,0 +1,33 @@
+# .gitignore
+
+# Java class files
+*.class
+
+# Executable files
+*.exe
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Object and archive files
+# Can use regular expression, e.g., [oa] matches either o or a
+*.[oa]
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# temp sub-directory(ended with a directory separator)
+temp/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
