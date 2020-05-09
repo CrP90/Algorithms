@@ -1,1 +1,1 @@
-Simple Java Programs and Algorithms
+# Simple collection of algorithms coded in Java
